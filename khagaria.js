@@ -9,6 +9,3 @@ if(fact ==2)
 {
 console.log("Prime")
 }
-else{
-console.log("Not Prime")
-}
